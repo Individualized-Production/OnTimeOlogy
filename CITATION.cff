@@ -1,1 +1,28 @@
 
+cff-version: 1.2.0
+
+title: "The OnTime Ontology"
+
+message: "If you use this ontology, please cite it using the metadata below."
+
+type: software
+
+authors:
+  - family-names: "Oraskari"
+    given-names: "Jyrki"
+
+  - family-names: "Fahrendholz-Heiermann"
+    given-names: "Jan Luca"
+
+  - family-names: "Brell-Cokcan"
+    given-names: "Sigrid"
+
+version: "1.0.1"
+
+date-released: 2026-04-15
+
+license: "CC-BY-4.0"
+
+repository-code: "https://github.com/individualized-production/ontime-ontology"
+
+url: "https://w3id.org/ontime#"
