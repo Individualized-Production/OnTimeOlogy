@@ -33,6 +33,11 @@ RWTH Aachen University
 Oraskari, J., Fahrendholz-Heiermann, J. L., & Brell-Cokcan, S. (2026).  
 *The OnTime Ontology* (Version 1.0.1).  
 RWTH Aachen University.  
+
+DOI:  
+https://doi.org/10.5281/zenodo.20414547
+
+Persistent namespace:  
 https://w3id.org/ontime#
 
 ## Serialization Formats
@@ -63,4 +68,6 @@ Funding reference:
 
 ## Zenodo
 
-Zenodo publication and DOI will follow.
+Zenodo archive and DOI:
+
+https://doi.org/10.5281/zenodo.20414547
